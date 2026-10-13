@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build artifacts (regenerable; dist exe goes to project root)
+build/
+/WeReadDesk.exe
+*.spec
+
+# Local dev traces (docs, tools, screenshots, logs)
+dev/
+
+# Runtime logs
+*.log
